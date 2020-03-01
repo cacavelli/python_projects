@@ -1,3 +1,7 @@
+'''This game generates a random number from 1 to 10.
+Then it asks the user to input a number until it matches with the generated one
+'''
+
 from random import randint
 secret = randint(1,10)
 print ("Welcome!")
