@@ -11,10 +11,6 @@ O usuário seleciona o que deseja fazer digitando a opção e depois os dois nú
 
 Caso digite algo fora das 5 opções, a calculadora informa <Opção inválida>'''
 
-#CRIAR OUTRO PROGRAMA PARA CONVERSÕES 
-
-#CRIAR OUTRO PROGRAMA PARA CALCULOS GEOMÉTRICOS
-
 #variáveis inseridas pelo usuário para realizar a operação
 num1 = 0
 num2 = 0
